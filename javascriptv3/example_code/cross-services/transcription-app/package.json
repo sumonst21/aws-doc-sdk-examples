@@ -13,7 +13,7 @@
   "devDependencies": {
     "json-loader": "^0.5.7",
     "raw-loader": "^4.0.2",
-    "webpack": "^4.42.0",
+    "webpack": "^5.105.2",
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
